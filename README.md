@@ -46,3 +46,8 @@
     <ul>
     <li>媒体播放标签（embed、vido、audio及其属性 controls、autoplay、loop）</li>
 </ul>
+</ul>
+  4.22（css/css_font）
+    <ul>
+    <li>css 中font-family font-weight color font-size的使用</li>
+</ul>
