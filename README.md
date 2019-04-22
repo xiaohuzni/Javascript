@@ -32,3 +32,17 @@
   <ul>
   <li>H5新标签（datalist fieldset article aside···）</li>
   </ul>
+   </ul>
+  4.22（test07）
+    <ul>
+    <li>H5新input属性（data range email tel color number）</li>
+</ul>
+</ul>
+  4.22（test08）
+    <ul>
+    <li>H5新增属性（required placeholder autocomplete autofocus mulitple accesskey）</li>
+</ul>
+  4.22（test09）
+    <ul>
+    <li>媒体播放标签（embed、vido、audio及其属性 controls、autoplay、loop）</li>
+</ul>
