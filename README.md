@@ -51,3 +51,8 @@
     <ul>
     <li>css 中font-family font-weight color font-size的使用</li>
 </ul>
+</ul>
+  4.24（css/css_font_style）
+    <ul>
+    <li>css 中font-family font-weight color font-size的综合使用</li>
+</ul>
